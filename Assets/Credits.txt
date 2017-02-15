@@ -1,0 +1,64 @@
+**********
+3D MODELS
+**********
+
+Title: First Person Lover - Female Character and Clothes Pack  
+Author: ISBIT GAMES
+Source: https://www.assetstore.unity3d.com/en/#!/content/41056
+License: https://unity3d.com/legal/as_terms
+
+Title: Dog
+Author: 3DRT.com
+Source: https://www.assetstore.unity3d.com/en/#!/content/24180
+License: https://unity3d.com/legal/as_terms
+
+Title: Cute Teddy Bear Toy
+Author: Vireco
+Source: https://www.assetstore.unity3d.com/en/#!/content/50129
+License: https://unity3d.com/legal/as_terms
+
+Title: Island Assets
+Author: Lylek Games
+Source: https://www.assetstore.unity3d.com/en/#!/content/56989
+License: https://unity3d.com/legal/as_terms
+
+**********
+Graphics
+**********
+
+
+
+**********
+SFX
+**********
+
+Title: Dog Whining
+Author: Jace
+Source: https://www.freesound.org/people/Jace/sounds/155321/
+License: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+Title: Dog Barking
+Author: Jace
+Source: https://www.freesound.org/people/Jace/sounds/155312/
+License: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+Title: dog panting.wav
+Author: keweldog
+Source: https://www.freesound.org/people/keweldog/sounds/181767/
+License: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+Title: Sea Waves
+Author: Mike Koenig
+Source: http://soundbible.com/885-Sea-Waves.html
+License: https://creativecommons.org/licenses/by/3.0/us/legalcode
+
+
+
+**********
+Other
+**********
+
+Title: VR Samples
+Author: Unity Technologies
+Source: https://www.assetstore.unity3d.com/en/#!/content/51519
+License: Apache License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0
